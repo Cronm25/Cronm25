@@ -40,9 +40,8 @@ const aboutMe = {
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/agustin-g%C3%B3mez-a73632209/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/agustin-g%C3%B3mez-a73632209/" height="30" width="40" /></a>
-- 📫 How to reach me **agu.vivacayasta@gmail.com**
 </p>
-
+- 📫 How to reach me **agu.vivacayasta@gmail.com**
 
 
 <h3 align="left">Solo project:</h3>
