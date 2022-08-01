@@ -20,7 +20,7 @@ const aboutMe = {
    },
 };
 ```
-- 🌱 I’m currently learning **Kotlin, Python**
+- 🌱 I’m currently learning **Next.js, Json**
 
 - 💬 Ask me about **JavaScript, React, React-Native, Redux, HTML, CSS, Node JS, Express, PostgreSQL, TypeScript, Sequelize, Heroku**
 <h3 align="left">Languages and Tools:</h3>
