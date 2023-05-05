@@ -44,5 +44,5 @@ const aboutMe = {
 </p>
 - 📫 How to reach me **agu.vivacayasta@gmail.com**
 <h3 align="left">Portafolio url:</h3>
-https://portafolio-mu-taupe.vercel.app
+https://42332607-cronm25.vercel.app/
 ._.
