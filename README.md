@@ -2,9 +2,9 @@
 
 <img src="https://www.videosoftdev.com/images/video_editor/how-to/raindrops/sharper.gif" width="850" height="400">
 
-<h3 align="center">I am 23 years old and curious by nature, passionate about technological development and i decided to dedicate myself to software development.
+<h2 align="center">I am 23 years old and curious by nature, passionate about technological development and i decided to dedicate myself to software development.
 I am currently trained as a full stack developer with [academic] experience building websites and mobile apps.
-I know the importance of group work to carry out a project, i easily adapt to new environments and I enjoy collaborating with colleagues to solve code or personal problems.</h3>
+I know the importance of group work to carry out a project, i easily adapt to new environments and I enjoy collaborating with colleagues to solve code or personal problems.</h2>
 
 ```javascript
 const aboutMe = {
